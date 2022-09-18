@@ -1,0 +1,7 @@
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\bin\Debug\TextAnimation.exe.config
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\bin\Debug\TextAnimation.exe
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\bin\Debug\TextAnimation.pdb
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\obj\Debug\TextAnimation.csprojAssemblyReference.cache
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\obj\Debug\TextAnimation.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\obj\Debug\TextAnimation.exe
+C:\Users\VCompany\source\repos\TextAnimation\TextAnimation\obj\Debug\TextAnimation.pdb
